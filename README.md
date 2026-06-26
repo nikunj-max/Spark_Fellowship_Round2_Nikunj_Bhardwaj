@@ -1,4 +1,4 @@
-# 🌉 FoodBridge India
+# 🌉 FoodBridge India By Nikunj Bhardwaj
 ### Spark Fellowship Round 2 Submission — Build a Business Solution to Reduce Food Waste in Urban India
 
 > **"Don't Let It Rot. Let It Reach."**  
@@ -11,13 +11,10 @@
 ```
 FoodBridge_India_SparkR2/
 │
-├── FoodBridge_India_SparkR2.pptx   ← Main 4-slide submission
-├── ml_analysis.py                   ← ML models + visualization code
-├── dashboard_full.png               ← Full ML dashboard (8-panel)
-├── flow_diagram.png                 ← Donor → Platform → Receiver flow
-├── timeline_7day.png                ← 7-day launch blitz timeline
-├── kpi_board.png                    ← Year 1 KPI projections board
-└── README.md                        ← This file
+├── FoodBridge_India_SparkR2.pdf    ← Main 4-Pages submission
+├── Nikunj_Spark_Round2.pynb        ← ML models + visualization code
+├── dashboard_full.png              ← Full ML dashboard (8-panel)
+└── README.md                       ← This file
 ```
 
 ---
@@ -94,6 +91,7 @@ python ml_analysis.py
 ```
 
 ### Output
+![Image Alt](https://github.com/nikunj-max/Spark_Fellowship_Round2_Nikunj_Bhardwaj/blob/main/dashboard_full.png)
 The script will:
 1. Generate a 500-record synthetic dataset modelling Delhi/NCR donor patterns
 2. Train 4 ML models
@@ -227,11 +225,9 @@ The ML models are built on realistic synthetic data that mirrors actual Delhi/NC
 
 ## 🔗 Submission Details
 
-- **Candidate**: [Your Full Name]
-- **College**: [Your College Name]
-- **File name**: `FullName_CollegeName_SparkRound2.pptx`
-- **Fellowship**: Spark Fellowship — Round 2 (IAHV / The Art of Living)
-- **Challenge**: Build a business solution to reduce food waste in urban India
+- **Candidate**: NIKUNJ BHARDWAJ
+- **College**: GGSIPU-USAR
+- **File name**: `Nikunj_Bhardwaj_GGSIPU-USAR_SparkRound2.pdf`
 
 ---
 
