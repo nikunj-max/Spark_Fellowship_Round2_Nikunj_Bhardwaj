@@ -78,18 +78,6 @@ The gap isn't charity. It's logistics, hygiene, trust, and timing. **FoodBridge 
 
 ---
 
-## 📊 Running the ML Analysis
-
-### Prerequisites
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
-
-### Run
-```bash
-python ml_analysis.py
-```
-
 ### Output
 ![Image Alt](https://github.com/nikunj-max/Spark_Fellowship_Round2_Nikunj_Bhardwaj/blob/main/dashboard_full.png)
 The script will:
