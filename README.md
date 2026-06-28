@@ -84,11 +84,8 @@ The script will:
 1. Generate a 500-record synthetic dataset modelling Delhi/NCR donor patterns
 2. Train 4 ML models
 3. Print model performance metrics to console
-4. Save 4 visualization PNGs:
+4. Save visualization PNGs:
    - `dashboard_full.png` — Full 8-panel ML dashboard
-   - `flow_diagram.png` — Platform flow with safety badges
-   - `timeline_7day.png` — 7-day launch blitz circle timeline
-   - `kpi_board.png` — Year 1 KPI projection board
 
 ### Sample Console Output
 ```
